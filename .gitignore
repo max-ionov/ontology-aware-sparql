@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+
+# UV Package Manager
+uv.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
